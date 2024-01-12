@@ -16,7 +16,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 }
 
 /**
- * isperfectrec - recursive function that checks if a binary tree
+ * _perfect - recursive function that checks if a binary tree
  * is perfect or not
  * @tree: pointer to the root node of the tree to check
  * @d: counter
